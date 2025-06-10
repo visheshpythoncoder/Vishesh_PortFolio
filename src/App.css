@@ -1,0 +1,9 @@
+.mobile-bg-shift-right {
+  background-position: center center;
+}
+
+@media (max-width: 768px) {
+  .mobile-bg-shift-right {
+    background-position: right center !important;
+  }
+}
